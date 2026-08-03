@@ -1,0 +1,6 @@
+{
+  "name": "Stimuler AI English Coach",
+  "description": "AI-powered English speaking coach app with instant speech evaluation, IELTS practice, fluency analysis, and vocabulary vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
